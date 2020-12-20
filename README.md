@@ -4,6 +4,6 @@ Course project
 backend main language - python. 
 used libraries: python Django, bootstrap.
 Database: sqlite3.
-![Screenshot](/screenshot.png)
-![Screenshot](/screenshot2.png)
-![Screenshot](/screenshot3.png)
+![Screenshot](/screenshot.PNG)
+![Screenshot](/screenshot2.PNG)
+![Screenshot](/screenshot3.PNG)
